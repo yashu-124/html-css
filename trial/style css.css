@@ -1,0 +1,27 @@
+h2{
+    color: rgb(113, 133, 249);
+    padding: 20;
+    margin-top: 30;
+}
+.one {
+        background-color: rgb(223, 229, 235);
+        height: 200px; /* Specify height with units (e.g., pixels) */
+        width: 300px; /* Specify width with units (e.g., pixels) */
+        opacity: 0.5;
+
+ margin-top: 15cap;
+    align-items: center;
+    border-radius: 20%;
+
+}
+body{
+    background-image: url(image.png);
+    background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   height: 100vh;
+   padding-top: 5%;
+}
+.image{
+    border-radius:50%;
+}

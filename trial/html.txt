@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+
+    </title>      
+    <link rel="stylesheet" href="style.css">
+</head>
+<center>
+<body>
+    
+<div class="one">
+<h2 >Sign-in</h2>
+
+<form>
+    
+ <label>Username:</label><br>
+  <input type="text" ><br>
+  <label>Password:</label><br>
+  <input type="password"><br><br>
+  <Button><a href="nxt_page.html">login</Button><br>
+  </center>
+</form>
+
+</div>
+<h2>An ordered HTML list</h2>
+
+<ol>
+  <li>HT</li>
+  <li>M</li>
+  <li>L</li>
+</ol>
+<h2>An unordered HTML list</h2>
+
+<ul>
+  <li>C</li>
+  <li>S</li>
+  <li>S</li>
+</ul>  
+</body>
+</html>
